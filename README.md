@@ -42,3 +42,8 @@ This is a Real-Time Chat Application built using **Next.js**, **Socket.IO**, and
 - `/utils` - MongoDB connection utility
 - `/public` - Static files
 
+![Screenshot 2025-05-02 093205](https://github.com/user-attachments/assets/bd28d3ba-a955-41a0-b76e-387ea5e359d0)
+![Screenshot 2025-05-02 093224](https://github.com/user-attachments/assets/34e44bcd-d844-483c-8bb7-1b1f602cec3d)
+![Screenshot 2025-05-02 093248](https://github.com/user-attachments/assets/c3b4b08a-ba7d-46d1-beb6-8a28dc387ff3)
+
+
